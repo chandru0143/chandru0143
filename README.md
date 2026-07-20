@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>💻 Java Full Stack Developer<br>🎓 CSE Student | HCT<br>📍 Krishnagiri, Tamil Nadu<br><br>---------------------------------<br><br>🚀 About Me<br><br>- 🌱 Spring Boot & Docker & JAVASCRIPT & REACT<br>- 💻 Build More Java Full Stack Projects<br>- 🎯 Goal: Software Engineer
+<br>💻 Java Full Stack Developer<br>🎓 CSE Student | HCT<br>📍 Krishnagiri, Tamil Nadu<br><br>---------------------------------<br><br>🚀 About Me<br><br>- 🌱 Spring Boot  &  Docker & JAVASCRIPT & REACT<br>- 💻 Build More Java Full Stack Projects<br>- 🎯 Goal: Software Engineer
 
 
 ## 🌐 Socials:
